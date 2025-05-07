@@ -27,7 +27,7 @@ SentinelAI, sunucunuzu sadece basit küfür/spam filtreleriyle değil, **tam anl
 ### Kurulum Adımları
 
 ```bash
-git clone https://github.com/kullanici-adi/SentinelAI.git
+git clone https://github.com/Cexha/SentinelAI.git
 cd SentinelAI
 npm install
 cp .env.example .env
